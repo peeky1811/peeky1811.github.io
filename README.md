@@ -1,2 +1,2 @@
-# peeky1811.github.io
-This is a calculator website made using HTML, CSS and Javascript.
+# ONLINE CALCULATOR
+This is a simple online calculator  made using HTML, CSS and Javascript.
